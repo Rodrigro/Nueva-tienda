@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "product": "El mejor Tv",
+        "nombre": "Tv Samsung",
+        "category": "Televisores",
+        "price": 130000,
+        "imgurl": "./products/tv.png",
+        "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos",
+        "stock": 6
+
+    },
+    {
+        "id": 2,
+        "product": "Notebook Acer",
+        "nombre": "Notebook Acer 17'",
+        "category": "Computadoras",
+        "price": 160000,
+        "imgurl": "./products/notebook.png",
+        "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos",
+        "stock": 23
+},
+{
+    "id": 3,
+    "product": "Cafetera Moulinex",    
+    "nombre": "Cafetera",
+    "category": "Electrodomestico",
+    "price": 10000,
+    "imgurl": "./products/cafetera.png",
+    "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos",
+    "stock": 8
+},
+{
+    "id": 1,
+    "product": "Auriculares Gamers",
+    "nombre": "Logitech Auriculares ",
+    "category": "Gamming",
+    "price": 13000,
+    "imgurl": "./products/monopatin.png",
+    "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos",   
+    "stock": 23
+},
+{
+    "id": 2,
+    "product": "Iphone x25",
+    "nombre": "Iphone x25",
+    "category": "Telefonia",
+    "price": 560000,
+    "imgurl": "./products/iphone.png",
+    "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos",
+    "stock": 12
+},
+{
+"id": 3,
+"product": "Lavaropa Dream",    
+"nombre": "Lavaropa Dream",
+"category": "Electrodomesticos",
+"price": 200000,
+"imgurl": "./products/lavaropa.png",
+"resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos",
+"stock": 27
+}
+,
+{
+    "id": 3,
+    "product": "Heladera Electrolux",    
+    "nombre": "Heladera No Frost Electrolux",
+    "category": "Electrodomesticos",
+    "price": 270000,
+    "imgurl": "./products/helader-blanca.png",
+    "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos",
+    "stock": 65
+    },
+{
+    "id": 3,
+    "product": "Heladera Gafa",    
+    "nombre": "Heladera Gafa No Frost",
+    "category": "Electrodomesticos",
+    "price": 450000,
+    "imgurl": "./products/heladera-gris.png",
+      "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos" , 
+     "stock": 12   
+},
+    {
+    "id": 3,
+    "product": "Horno Electrico",    
+    "nombre": "Horno Electrico Lg",
+    "category": "Electrodomesticos",
+    "price": 20000,
+    "imgurl": "./products/microondas.png",
+    "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos",      
+     "stock": 23       
+}
+
+]
