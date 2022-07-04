@@ -15,16 +15,16 @@ function NavBar() {
                     <Link to="/">Home</Link>
                 </li>
                 <li>
-                    <Link to="/category/drama">Ofertas</Link>
+                    <Link to="/category/consolas">Consolas</Link>
                 </li>
                 <li>
-                    <Link to="/category/ciencia-ficcion">Elecrodomesticos</Link>
+                    <Link to="/category/electrodomesticos">Elecrodomesticos</Link>
                 </li>
                 <li>
-                    <Link to="/category/aventura">Aventura</Link>
+                    <Link to="/category/computadoras">Computadoras</Link>
                 </li>
                 <li>
-                    <Link to="/category/veridica">Veridicas</Link>
+                    <Link to="/category/Heladeras">Heladeras</Link>
                 </li>
                 <CartWidget/>
             </ul>

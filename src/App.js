@@ -4,6 +4,8 @@ import ItemListContainer from "./components/ItemListContainer/ItemListContainer"
 import ItemDetailContainer from "./components/ItemDetailContainer/ItemDetailContainer";
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
+
+
 function App() {
   
   return (
@@ -11,7 +13,7 @@ function App() {
       <BrowserRouter>
         <NavBar/>
         <Routes>
-          <Route path="/" element={<ItemListContainer greeting="Nuestro cátalogo"/>}/>
+          <Route path="/" element={<ItemListContainer greeting="Nuestros Productos"/>}/>
           <Route path="/category/:categoryId" element={<ItemListContainer greeting="Encontradas"/>}/>
           <Route path="/detalle/:itemId" element={<ItemDetailContainer/>}/>
         </Routes>

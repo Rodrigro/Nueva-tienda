@@ -3,7 +3,7 @@
         "id": 1,
         "product": "El mejor Tv",
         "nombre": "Tv Samsung",
-        "category": "Televisores",
+        "category": "televisores",
         "price": 130000,
         "imgurl": "./products/tv.png",
         "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos",
@@ -14,7 +14,7 @@
         "id": 2,
         "product": "Notebook Acer",
         "nombre": "Notebook Acer 17'",
-        "category": "Computadoras",
+        "category": "computadoras",
         "price": 160000,
         "imgurl": "./products/notebook.png",
         "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos",
@@ -24,72 +24,131 @@
     "id": 3,
     "product": "Cafetera Moulinex",    
     "nombre": "Cafetera",
-    "category": "Electrodomestico",
+    "category": "electrodomesticos",
     "price": 10000,
     "imgurl": "./products/cafetera.png",
     "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos",
     "stock": 8
 },
 {
-    "id": 1,
+    "id": 4,
     "product": "Auriculares Gamers",
     "nombre": "Logitech Auriculares ",
-    "category": "Gamming",
+    "category": "electrodomesticos",
     "price": 13000,
     "imgurl": "./products/monopatin.png",
     "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos",   
     "stock": 23
 },
 {
-    "id": 2,
+    "id": 5,
     "product": "Iphone x25",
     "nombre": "Iphone x25",
-    "category": "Telefonia",
+    "category": "electrodomesticos",
     "price": 560000,
     "imgurl": "./products/iphone.png",
     "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos",
     "stock": 12
 },
 {
-"id": 3,
+"id": 6,
 "product": "Lavaropa Dream",    
 "nombre": "Lavaropa Dream",
-"category": "Electrodomesticos",
+"category": "electrodomesticos",
 "price": 200000,
 "imgurl": "./products/lavaropa.png",
 "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos",
 "stock": 27
-}
-,
+},
 {
-    "id": 3,
+    "id": 7,
     "product": "Heladera Electrolux",    
     "nombre": "Heladera No Frost Electrolux",
-    "category": "Electrodomesticos",
+    "category": "Heladeras",
     "price": 270000,
     "imgurl": "./products/helader-blanca.png",
     "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos",
     "stock": 65
     },
 {
-    "id": 3,
+    "id": 8,
     "product": "Heladera Gafa",    
     "nombre": "Heladera Gafa No Frost",
-    "category": "Electrodomesticos",
+    "category": "Heladeras",
     "price": 450000,
     "imgurl": "./products/heladera-gris.png",
       "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos" , 
      "stock": 12   
 },
     {
-    "id": 3,
+    "id":9,
     "product": "Horno Electrico",    
     "nombre": "Horno Electrico Lg",
-    "category": "Electrodomesticos",
+    "category": "electrodomesticos",
     "price": 20000,
     "imgurl": "./products/microondas.png",
     "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos",      
-     "stock": 23       
+    "stock": 23       
+},
+{
+    "id": 10,
+    "product": "Heladera Siam",    
+    "nombre": "Heladera Siam No Frost",
+    "category": "Heladeras",
+    "price": 450000,
+    "imgurl": "./products/heladera-gris.png",
+    "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos" , 
+    "stock": 12   
+},
+{
+    "id": 11,
+    "product": "Computadora gamer Acer",    
+    "nombre": "Computadora Acer Gamer",
+    "category": "computadoras",
+    "price": 400000,
+    "imgurl": "./products/compugamer02.png",
+    "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos" , 
+    "stock": 12   
+},
+{
+    "id": 12,
+    "product": "Computadora Predator",    
+    "nombre": "Computadora Predator",
+    "category": "computadoras",
+    "price": 550000,
+    "imgurl": "./products/compugamer1.png",
+    "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos" , 
+    "stock": 12   
+},
+{
+    "id": 13,
+    "product": "Tv Smart Samsung",    
+    "nombre": "Tv Smart Samsung",
+    "category": "televisores",
+    "price": 450000,
+    "imgurl": "./products/tv02.png",
+    "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos" , 
+    "stock": 12   
+},
+{
+    "id": 14,
+    "product": "Play Station V",    
+    "nombre": "Play Station V 1 tera",
+    "category": "consolas",
+    "price": 250000,
+    "imgurl": "./products/ps5.png",
+      "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos" , 
+     "stock": 12   
+},
+{
+    "id": 15,
+    "product": "X-Box One",    
+    "nombre": "Consola X-Box One",
+    "category": "consolas",
+    "price": 450000,
+    "imgurl": "./products/xboxone.png",
+    "resumen": "Somos el mejor portal de Ofertas de la republica argentina, no dudes en consultar nuestro catalogo de productos" , 
+     "stock": 12   
 }
 
 ]

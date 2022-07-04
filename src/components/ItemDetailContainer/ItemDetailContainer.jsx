@@ -29,11 +29,11 @@ export default function ItemDetailContainer() {
 
     return (
         <div>
-            <Link to="/"><button>Volver al catalogo</button></Link>
-            <Link to="/category/Televisores"><button>Televisores</button></Link>
-            <Link to="/category/Computadoras"><button>Computadoras</button></Link>
-            <Link to="/category/aventura"><button>Aventura</button></Link>
-            <Link to="/category/veridica"><button>Veridicas</button></Link>
+            <Link to="/"><button>Volver</button></Link>
+            <Link to="/category/televisores"><button>Televisores</button></Link>
+            <Link to="/category/computadoras"><button>Computadoras</button></Link>
+            <Link to="/category/Heladeras"><button>Heladeras</button></Link>
+            <Link to="/category/consolas"><button>Consolas</button></Link>
             <div>
                 <ItemDetail item={producto}/>
             </div>

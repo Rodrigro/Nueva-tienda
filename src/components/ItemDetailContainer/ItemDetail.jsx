@@ -4,8 +4,8 @@ import ItemCount from '../ItemCount/ItemCount';
 
 function ItemDetail({item}) {
   return (
-    <div className='detalle-libro'>
-        <img src={item.imgurl} alt="Logo" className='portada-libro'/>
+    <div className='detalle-producto'>
+        <img src={item.imgurl} alt="Logo" className='portada-producto'/>        
         <section><h1>{item.product}</h1>
         <h2>{item.resumen}</h2>
         <h3 class="boton-agregar1">${item.price}</h3>

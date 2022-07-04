@@ -1,18 +1,18 @@
-.detalle-libro{
+.detalle-producto{
     margin-top: 50px;
     display: flex;
     gap: 40px;
     justify-content: center;
 }
-.detalle-libro h1{
+.detalle-producto h1{
     text-align: center;
     margin-top: 40px;
     margin-bottom: 20px;
 }
-.detalle-libro h2{
+.detalle-producto h2{
     margin: 0 20px;
 }
-.detalle-libro h3{
+.detalle-producto h3{
     margin-top: 45px;
     margin-bottom: 10px;
     font-size: x-large;
@@ -22,7 +22,7 @@ section{
     background-color: rgb(116, 139, 139);
     border-radius: 60px;
 }
-.portada-libro{
+.portada-producto{
     border: 8px solid black;
     width: 250px;
     height: 400px;
