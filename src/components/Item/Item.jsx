@@ -8,7 +8,7 @@ export const Item = ({item, stock}) => {
     const urlDetalle= `/detalle/${item.id}`
     return (
         <div class="cards">
-            <img src={item.imgurl} alt="Logo" />
+            <img src={item.thumbnailUrl} alt="Logo" />
             <h3>{item.product}</h3>
             <h4>${item.price}</h4>
             <Link to={urlDetalle} class="ver-detalle">Ver Detalle</Link>

@@ -12,11 +12,13 @@ function ItemCount({stock,initial, onAdd}){
         cantidad >= stock ? alert("No queda mas stock"): (setStockProducto(stockProducto -1) || setCantidad(cantidad +1));
     }
     
+    
 
     function resta(){
         cantidad <= 0 ? alert("Operacion rechazada"): (setStockProducto(stockProducto +1) || setCantidad(cantidad -1));
 
     }
+    
 
     function actualizar(){
     return cantidad
@@ -30,7 +32,8 @@ function ItemCount({stock,initial, onAdd}){
                 <button class="button" onClick={suma}> + </button>
             </div>
             <div>
-            <button class="boton-agregar">Agregar al carrito</button>
+            <button class="boton-agregar" onClick={onAdd}>Añadir</button>
+
             </div>
         </div>
         
@@ -38,3 +41,6 @@ function ItemCount({stock,initial, onAdd}){
 }
 
 export default ItemCount;
+
+
+    
